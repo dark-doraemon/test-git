@@ -1,3 +1,4 @@
+
 ### Online Exam Application
 
 ###Description 
@@ -14,11 +15,18 @@ Online Exam Hub is a user-friendly platform for creating and taking exams online
 - JDK 18+
 - VS Code (or other IDE,Code editor)
 
-> [!IMPORTANT]
-> How to set up ?
+> [!IMPORTANT]  How to set up ?
 
-First your need to download at [this link](https://nodejs.org/en) and install it
-![](https://ibb.co/rcGfVY2)
+To begin with, your need to download NodeJS at [this link](https://nodejs.org/en) and install it
+After install, open your terminal and type
+`node -v`
+If you see the result like 
+`v22.4.0`
+That means i have installed successfully
+
+Next, you need to install JDK (Java Development Kit)
+Go to this [link]([https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)) to download 
+
 
 # Editor.md
 
@@ -94,8 +102,9 @@ GFM a-tail link @pandao
 ###Code Blocks (multi-language) & highlighting
 
 ####Inline code
-
+$ name in
 `$ npm install marked`
+
 
 ####Code Blocks (Indented style)
 
