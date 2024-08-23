@@ -87,6 +87,8 @@ Open your `SQL Server Management Studio` <br>
 10. Enter you account you have already created (`sa` and `sa`)
 11. If you can login, you have created successfully
 
-Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\server\` and hit enter button to move to client folder
+Next, install `Extension Pack for Java` extension in VS Code ~[](https://i.ibb.co/d0MKH4D/image.png) <br>
+Click `Run and Debug` and select `Spring boot` and it will build and create database automatically for you
+
 
 
