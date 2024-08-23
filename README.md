@@ -1,7 +1,7 @@
 
 ### Online Exam Application
 
-###Description 
+### Description 
 Online Exam Hub is a user-friendly platform for creating and taking exams online. It offers customizable test formats, real-time grading, and secure access, making it perfect for educators and students alike
 
 ### Features
@@ -17,12 +17,12 @@ Online Exam Hub is a user-friendly platform for creating and taking exams online
 
 > [!IMPORTANT]  How to set up ?
 
-To begin with, your need to download NodeJS at [this link](https://nodejs.org/en) and install it
-After install, open your terminal and type
-`node -v`
-If you see the result like 
-`v22.4.0`
-That means i have installed successfully
+To begin with, your need to download NodeJS at [this link](https://nodejs.org/en) and install it <br>
+After install, open your terminal and type <br>
+`node -v`<br>
+If you see the result like <br>
+`v22.4.0`<br>
+That means you have installed successfully<br>
 
 Next, you need to install JDK (Java Development Kit)
 Go to this [link]([https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)) to download 
