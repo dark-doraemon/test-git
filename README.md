@@ -50,3 +50,5 @@ Click
 
 ![](https://i.ibb.co/sgpqP4W/image.png)
 
+>  Enter the path to your JDK bin directory (Ex: C:\Program Files\Java\jdk<version>\bin).
+
