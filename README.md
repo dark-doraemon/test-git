@@ -55,5 +55,5 @@ Mine is  `D:\java\jdk-19\bin`
 
 Finally, open your terminal and type `java --version`. If it shows something like `java 19.0.1 2022-10-18`, you have set up jdk successfully
 
-### Install project
+### Install project (Underline)
 
