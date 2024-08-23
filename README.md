@@ -32,6 +32,5 @@ Go to this [link](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_
 
 On Windows, search  
 > Edit the system enviroment variables
-![]()
-[url=https://imgbb.com/][img]https://i.ibb.co/V2xkJ2R/image.png[/img][/url]
+![](https://i.ibb.co/V2xkJ2R/image.png)
 
