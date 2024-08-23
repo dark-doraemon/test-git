@@ -45,4 +45,8 @@ Find
 
 ![](https://i.ibb.co/JyJ5FWg/image.png)
 
+Click
+> `New` and it will create a new row for you
+
+![](https://i.ibb.co/sgpqP4W/image.png)
 
