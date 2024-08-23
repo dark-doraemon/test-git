@@ -38,5 +38,6 @@ On Windows, search
 Select 
 >Enviroment Variables
 
-![](https://i.ibb.co/YXdY5nR/image.png)
+![](https://i.ibb.co/4W64djq/image.png)
+
 
