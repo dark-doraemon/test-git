@@ -65,5 +65,4 @@ If you have git you can <br>
 
 Once you install project and extract it, there are 2 folders you should pay attention to, they are `client` and `server`  <br>
 Firstly, Open project with vs code (or something else you like to use) <br>
-Open Intergrated Terminal in your ide or Windows terminal or Powershell and type <br>
-`cd .\client\` and hit enter button to move to client folder, continue type command `npm install` and wait a moment
+Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\client\` and hit enter button to move to client folder, continue type command `npm install` and wait a moment
