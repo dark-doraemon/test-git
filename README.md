@@ -77,6 +77,7 @@ Enter `npm run dev` to run client side
 Open your `SQL Server Management Studio` <br>
 1. Connect to SQL Server ![](https://i.ibb.co/9cx8vfK/image.png)
 2. Right click database and name it `testapp` ![](https://i.ibb.co/C0Z9Ng3/image.png)
+3. Create new `sa account` look at the picture ![](https://i.ibb.co/cFXh2d8/image.png)
 Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\server\` and hit enter button to move to client folder
 
 
