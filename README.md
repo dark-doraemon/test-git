@@ -79,6 +79,13 @@ Open your `SQL Server Management Studio` <br>
 2. Right click database and name it `testapp` ![](https://i.ibb.co/C0Z9Ng3/image.png)
 3. Create new `sa account` (look at the picture) ![](https://i.ibb.co/cFXh2d8/image.png)
 4. Select `SQL Server authentication`, type login name is `sa`, password and confirm password is also `sa` ![](https://i.ibb.co/mhQx1Z1/image.png)
+5. Select `status` and select options like the picture ![](https://i.ibb.co/NmFWy0D/image.png) and click OK
+6. Restart your SQL Server ![](https://i.ibb.co/NjKjC8X/image.png)
+7. Right click your SQL Server and select properties ![](https://i.ibb.co/FK47Bpf/image.png)
+8. Select `Sercurity` and select `SQL Server and Windows Authentication mode` and click OK
+9. Disconnect your SQL Server and reconnect with `SQL Server Authentication` mode
+10. Enter you account you have already created (`sa` and `sa`)
+11. If you can login, you have created successfully
 
 Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\server\` and hit enter button to move to client folder
 
