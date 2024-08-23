@@ -68,4 +68,8 @@ Firstly, Open project with vs code (or something else you like to use) <br>
 > [!NOTE]
 > Client setup
 
-Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\client\` and hit enter button to move to client folder, continue type command `npm install` and wait a moment
+Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\client\` and hit enter button to move to client folder, continue type command `npm install` and wait a moment <br>
+Enter `npm run dev` to run client side
+
+> [!NOTE]
+> Server setup
