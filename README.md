@@ -13,6 +13,7 @@ Online Exam Hub is a user-friendly platform for creating and taking exams online
 - Nodejs 
 - JDK 18+
 - VS Code (or other IDE,Code editor)
+- SQL Server Management Studio (2022)
 
 > [!IMPORTANT] 
 >  How to set up ?
@@ -73,3 +74,8 @@ Enter `npm run dev` to run client side
 
 > [!NOTE]
 > Server setup
+Open your `SQL Server Management Studio` <br>
+1. 
+Open Intergrated Terminal in your ide or Windows terminal or Powershell and type `cd .\server\` and hit enter button to move to client folder
+
+
