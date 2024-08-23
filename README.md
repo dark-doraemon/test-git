@@ -86,8 +86,8 @@ Open your `SQL Server Management Studio` <br>
 9. Disconnect your SQL Server and reconnect with `SQL Server Authentication` mode ![](https://i.ibb.co/JHvPpPf/image.png)
 10. Enter you account you have already created (`sa` and `sa`)
 11. If you can login, you have created successfully
-
-Next, install `Extension Pack for Java` extension in VS Code ~[](https://i.ibb.co/d0MKH4D/image.png) <br>
+<br>
+Next, install `Extension Pack for Java` extension in VS Code ![](https://i.ibb.co/d0MKH4D/image.png) <br>
 Click `Run and Debug` and select `Spring boot` and it will build and create database automatically for you
 
 
