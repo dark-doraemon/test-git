@@ -60,3 +60,10 @@ Finally, open your terminal and type `java --version`. If it shows something lik
 You can download project at this [link](https://github.com/LeThinhPhuc/Test_Application/archive/refs/heads/main.zip) and extract it <br>
 If you have git you can <br>
 `git clone https://github.com/LeThinhPhuc/Test_Application.git`
+
+# Start project
+
+Once you install project and extract it, there are 2 folders you should pay attention to, they are `client` and `server`  <br>
+Firstly, Open project with vs code (or something else you like to use) <br>
+Open Intergrated Terminal in your ide or Windows terminal or Powershell and type <br>
+`cd .\client\' and hit enter button to move to client folder, continue type command `npm install` and wait a moment
