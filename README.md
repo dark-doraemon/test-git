@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fcba76f6-29e8-4fdd-a046-cbfc6c34fbf1)
 ### Online Exam Application
 
 ### Description 
@@ -53,4 +52,6 @@ Click
 >  Enter the path to your JDK bin directory (Ex: C:\Program Files\Java\jdk<version>\bin).
 
 Mine is  `D:\java\jdk-19\bin`
+
+Finally, open your terminal and type `java --version`. If it shows something like `java 19.0.1 2022-10-18`, you have set up jdk successfully
 
