@@ -4,7 +4,7 @@
 Online Exam Hub is a user-friendly platform for creating and taking exams online. It offers customizable test formats, real-time grading, and secure access, making it perfect for educators and students alike
 
 ## Techs involed
-[![Techs](https://skillicons.dev/icons?i=react,java,redux,tailwind,cs&perline=6)](https://skillicons.dev)
+[![Techs](https://skillicons.dev/icons?i=react,java,redux,tailwind&perline=6)](https://skillicons.dev)
 
 ### Features
 - Support multi-platform because it runs on the web :))
