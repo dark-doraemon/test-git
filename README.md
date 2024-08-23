@@ -57,6 +57,6 @@ Finally, open your terminal and type `java --version`. If it shows something lik
 
 # Install project 
 
-You can download project at this [link](https://github.com/LeThinhPhuc/Test_Application/archive/refs/heads/main.zip) <br> and extract it
+You can download project at this [link](https://github.com/LeThinhPhuc/Test_Application/archive/refs/heads/main.zip) and extract it <br>
 If you have git you can <br>
 `git clone https://github.com/LeThinhPhuc/Test_Application.git`
