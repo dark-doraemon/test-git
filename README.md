@@ -40,4 +40,9 @@ Select
 
 ![](https://i.ibb.co/4W64djq/image.png)
 
+Find
+> `Path` and select `Edit`
+
+![](https://i.ibb.co/JyJ5FWg/image.png)
+
 
