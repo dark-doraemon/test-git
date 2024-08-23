@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/fcba76f6-29e8-4fdd-a046-cbfc6c34fbf1)
 ### Online Exam Application
 
 ### Description 
@@ -51,4 +51,6 @@ Click
 ![](https://i.ibb.co/sgpqP4W/image.png)
 
 >  Enter the path to your JDK bin directory (Ex: C:\Program Files\Java\jdk<version>\bin).
+
+Mine is  `D:\java\jdk-19\bin`
 
