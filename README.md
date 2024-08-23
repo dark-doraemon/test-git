@@ -82,8 +82,8 @@ Open your `SQL Server Management Studio` <br>
 5. Select `status` and select options like the picture ![](https://i.ibb.co/NmFWy0D/image.png) and click OK
 6. Restart your SQL Server ![](https://i.ibb.co/NjKjC8X/image.png)
 7. Right click your SQL Server and select properties ![](https://i.ibb.co/FK47Bpf/image.png)
-8. Select `Sercurity` and select `SQL Server and Windows Authentication mode` and click OK
-9. Disconnect your SQL Server and reconnect with `SQL Server Authentication` mode
+8. Select `Sercurity` and select `SQL Server and Windows Authentication mode` ![](https://i.ibb.co/G5K4Bt4/image.png[) and click OK
+9. Disconnect your SQL Server and reconnect with `SQL Server Authentication` mode ![](https://i.ibb.co/JHvPpPf/image.png)
 10. Enter you account you have already created (`sa` and `sa`)
 11. If you can login, you have created successfully
 
