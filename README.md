@@ -3,6 +3,9 @@
 ### Description 
 Online Exam Hub is a user-friendly platform for creating and taking exams online. It offers customizable test formats, real-time grading, and secure access, making it perfect for educators and students alike
 
+## Techs involed
+[![Techs](https://skillicons.dev/icons?i=react,java,redux,tailwind,cs&perline=6)](https://skillicons.dev)
+
 ### Features
 - Support multi-platform because it runs on the web :))
 - Exam management
@@ -88,7 +91,10 @@ Open your `SQL Server Management Studio` <br>
 11. If you can login, you have created successfully
 
 Next, install `Extension Pack for Java` extension in VS Code ![](https://i.ibb.co/d0MKH4D/image.png) <br>
-Click `Run and Debug` and select `Spring boot` and it will build and create database automatically for you
+Click `Run and Debug` and select `Spring boot` and it will build and create database automatically for you <br>
+That's all
+
+
 
 
 
