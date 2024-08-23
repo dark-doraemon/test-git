@@ -27,3 +27,6 @@ That means you have installed successfully<br>
 
 Next, you need to install JDK (Java Development Kit).
 Go to this [link](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe ) to download <br>
+> [!CAUTION]
+> After you set up jdk, you need to set path variable<br>
+
